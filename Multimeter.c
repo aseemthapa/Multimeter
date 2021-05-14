@@ -2,7 +2,6 @@
 //EMBEDDED II
 //Contributors:
 //1) Aseem Thapa     (1001543178)
-//2) Sudarshan Tiwari(1001553073)
 
 //-----------------------------------------------------------------------------
 // Hardware Target
